@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Práctica Clase 02"
+  left:
+    - text: "Principal"
+      href: index.html
+    - text: "Acerca de"
+      href: about.html
+output: 
+    html_document:
+      theme: yeti
+  
